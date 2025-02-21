@@ -1,6 +1,6 @@
-//This is home page, It will contains all the sections require in this page.
+//This is home page, It will contains all the sections required in this page.
 
-//Import all the require sections here
+//Import all the required sections here
 import HeroSection from "../Sections/Hero/index";
 import About from "../Sections/About/index";
 import Services from "../Sections/Services/index";
